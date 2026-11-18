@@ -9,4 +9,4 @@ A full digital forensics examination of the NIST CFReDS Data Leakage Case. An em
 | Document | What it is |
 |---|---|
 | [case-report.md](./reports/case-report.md) | The full forensic report: findings, timeline, and conclusions |
-| [case-log.md](./notes/case-log.md) | Chain of custody and examiner notes, written as the work happened |
+| [case-log.md](./notes/case-log.md) | Chain of custody log |
