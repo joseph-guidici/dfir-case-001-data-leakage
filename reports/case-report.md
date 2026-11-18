@@ -53,7 +53,7 @@
 | E-003 | `cfreds_2015_data_leakage_rm#2.E01` | USB removable media (SN: #) | 255051328 | 6cfbfdb14e0a504684a338b87362d753 |
 | E-004 | `cfreds_2015_data_leakage_rm#3_type3.E01` | CD media (SN: #) | 94594894 | b49cb0c7dfccb8cd0e39424e3f1abc86 |
 
-The full chain of custody and examiner notes are kept in [case-log.md](./case-log.md).
+The full chain of custody and examiner notes are kept in [case-log.md](../notes/case-log.md).
 
 ---
 
